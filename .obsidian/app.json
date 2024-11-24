@@ -1,0 +1,7 @@
+{
+  "useTab": true,
+  "newLinkFormat": "relative",
+  "useMarkdownLinks": true,
+  "attachmentFolderPath": "./images",
+  "promptDelete": false
+}
