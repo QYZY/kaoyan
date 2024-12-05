@@ -49,6 +49,13 @@
         "Shift"
       ],
       "key": "3"
+    },
+    {
+      "modifiers": [
+        "Ctrl",
+        "Shift"
+      ],
+      "key": "3"
     }
   ],
   "editor:set-heading-4": [
